@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6224797`](https://github.com/stdlib-js/stdlib/commit/6224797683e0913dddd52ff37f71f707486ae101) - **test:** migrate `stats/base/dists/uniform/pdf` to ULP-based assertions [(#15172)](https://github.com/stdlib-js/stdlib/pull/15172) _(by Aryan kumar)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aryan kumar
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
