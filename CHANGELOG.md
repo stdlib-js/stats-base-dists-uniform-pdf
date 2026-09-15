@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-12)
+## Unreleased (2026-09-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`46409dc`](https://github.com/stdlib-js/stdlib/commit/46409dc9f97a21947b5091e34d75d278fc0aff21) - **style:** add whitespace [(#15184)](https://github.com/stdlib-js/stdlib/pull/15184) _(by Philipp Burckhardt)_
 -   [`6224797`](https://github.com/stdlib-js/stdlib/commit/6224797683e0913dddd52ff37f71f707486ae101) - **test:** migrate `stats/base/dists/uniform/pdf` to ULP-based assertions [(#15172)](https://github.com/stdlib-js/stdlib/pull/15172) _(by Aryan kumar)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Philipp Burckhardt
 
 </section>
 
